@@ -1,0 +1,33 @@
+.header{
+  background-color: navy;
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  padding: 1rem;
+
+}
+.header input{
+  flex: 3;
+  padding: 1rem;
+  font-size: 1.6 rem;
+  background-color:white;
+  color:navy;
+
+}.header button{
+  flex: 1;
+  padding: 1rem;
+  font-size: 1.6rem;
+  background-color: white;
+  color: navy;
+  border: ipx solid white;
+  border-radius: 1rem;
+  
+}
+.todo{
+  padding: 1rem;
+  background-color: white;
+  color: navy;
+  border: 1px solid navy;
+  border-radius: 1rem;
+
+}
