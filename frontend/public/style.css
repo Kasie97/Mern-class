@@ -78,6 +78,14 @@ nav {
     height: 15rem;
 }
 
+.card-text-description {
+    text-align: center;
+    color: brown;
+    font-weight: 90;
+    
+}
+
+
 footer {
     background: black;
     margin-top: 1rem;
